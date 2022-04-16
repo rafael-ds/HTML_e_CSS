@@ -126,16 +126,25 @@ footer{
     footer{
         margin-top: 200px;
         padding: 30px;
+        flex-direction: column;
 
+    }
+
+    .sociais{
+        display: flex;
+        justify-content: center;
     }
 
 
     .reg p{
         width: 100%;
         font-size: .7em;
-        margin-top: 60px;
-        margin-left: 87px;
-        text-align: end;
+        margin-top: 10px;
+        margin-left: 90px;
+        text-align: center;
+
+        transform: none;
+
     
     }
  }
