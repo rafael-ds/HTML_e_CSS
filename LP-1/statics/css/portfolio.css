@@ -1,0 +1,110 @@
+.banners{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: -130px;
+
+}
+
+
+.item {
+    width: 28%;
+    /*border: solid blue 1px;*/
+
+}
+
+.item img{
+    /*border: solid red 1px;*/
+    padding: 5px;
+    width: 95%;
+    margin-left: 1%;
+    justify-content: center;
+    opacity: .6;
+}
+
+.item img:hover{
+    opacity: 1;
+}
+
+.desc h2{
+    width: 100%;
+    text-align: center;
+    font-size: 2.5em;
+    margin-top: -75px;
+    position: absolute;
+    z-index: 1;
+}
+
+.desc2 {
+    text-align: center;
+    margin-top: -20px;
+    font-size: .8em;
+}
+
+.btn{
+    text-align: center;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.btn p{
+    padding: 10px;
+    border-radius: 5px;
+    width: 200px;
+    background-color: #202020;
+    box-shadow: 5px 3px 10px 0px rgb(7, 7, 7);
+
+    font-weight: 600;
+}
+
+.port{
+    margin-top: 0px;
+}
+
+
+
+/* =======MediaQuerys======= */
+/* Dispositivos extra pequeno (modo retrato)*/
+@media (max-width: 576px) { 
+
+    
+    .banners{
+        margin-top: -30px;
+        flex-direction: column;
+    }
+    .item{
+        width: 98%;
+
+    }
+
+    .item img{
+        /*border: solid red 1px;*/
+        padding: 5px;
+        width: 95%;
+        margin-left: 2%;
+        justify-content: center;
+        opacity: .6;
+    }
+
+    .desc {
+        margin-top: 50px;
+    }
+    
+ }
+
+ /* Dispositivos medio */
+ @media (min-width: 578px) and (max-width: 991.98px) { 
+    
+    .banners{
+        margin-top: -20px;
+    }
+    
+  }
+
+
+  /* Dispositivos grandes (desktops)*/
+ @media (min-width: 992px) and (max-width: 1500px) { 
+    
+  }
