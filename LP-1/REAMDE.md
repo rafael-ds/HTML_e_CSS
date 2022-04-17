@@ -1,22 +1,24 @@
 # Readme
 
-<h1>
+<h1 align="center">
     <img src="statics/img/bannerGit.jpg">
 </h1><br>
 
 # 👀 Demonstração
 ## Modelos Desktops
-
-<img src="statics/img/index.jpg" style="width: 150px;">
-<img src="statics/img/portfolio.jpg" style="width: 150px;">
-<img src="statics/img/contato.jpg" style="width: 150px;">
+<div align="center">
+<span><img src="statics/img/index.jpg" style="width: 150px;"></span>
+<span><img src="statics/img/portfolio.jpg" style="width: 150px;"></span>
+<span><img src="statics/img/contato.jpg" style="width: 150px;"></span>
+</div>
 <br>
 
 ## Modelos Mobile
-
-<img src="statics/img/index_mob.png" style="width: 120px;">
-<img src="statics/img/portfolio_mob.png" style="width: 120px;">
-<img src="statics/img/contato_mob.png" style="width: 120px;">
+<div align="center">
+<span><img src="statics/img/index_mob.png" style="width: 120px;"></span>
+<span><img src="statics/img/portfolio_mob.png" style="width: 120px;"></span>
+<span><img src="statics/img/contato_mob.png" style="width: 120px;"></span>
+</div>
 <br>
 
 
