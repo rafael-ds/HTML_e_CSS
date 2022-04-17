@@ -6,7 +6,9 @@
 
 # 👀 Demonstração
 ## Modelos Desktops
+
 <div align="center">
+<img src="statics/img/videoLP.gif" style="width: 150px;" >
 <span><img src="statics/img/index.jpg" style="width: 150px;"></span>
 <span><img src="statics/img/portfolio.jpg" style="width: 150px;"></span>
 <span><img src="statics/img/contato.jpg" style="width: 150px;"></span>
