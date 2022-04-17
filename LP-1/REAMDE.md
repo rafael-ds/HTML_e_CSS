@@ -14,7 +14,7 @@
 
 ## Modelos Mobile
 
-<img src="statics/img/index_mob.png" style="width: 120px;">
+<img src="statics/img/index_mob.png" style="width: 173px;">
 <img src="statics/img/portfolio_mob.png" style="width: 120px;">
 <img src="statics/img/contato_mob.png" style="width: 120px;">
 <br>
