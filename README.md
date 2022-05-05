@@ -1,2 +1,2 @@
 # landing-pages
-Repositórios destinados a landing pages
+Repositórios destinados projetos Html e Css
